@@ -4,6 +4,7 @@ Matériel de protection personel
 Visières réalisées par Julien Delnatte, projet newshield.org
 
 Licence des pièces individuelles : CC-BY-NC-ND 4.0
+
 Aucune vente de ces objets n'est autorisée! Merci de signaler si vous en voyez en vente.
 
 Je propose ici des ensembles sous forme de fichiers STL à télécharger directement pour avoir des plateaux de :
