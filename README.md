@@ -1,7 +1,7 @@
 # covid-19
 Matériel de protection personel
 
-Visières réalisées par Julien Delnatte, projet newshield.org
+Visières réalisées par Julien Delnatte, projet http://www.newshield.org
 
 Licence des pièces individuelles : CC-BY-NC-ND 4.0
 
