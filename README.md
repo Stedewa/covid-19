@@ -2,6 +2,7 @@
 Matériel de protection personel
 
 Visières réalisées par Julien Delnatte, projet http://www.newshield.org
+
 Liens STL originaux disponibles ici : https://www.myminifactory.com/object/3d-print-115247
 
 Licence des pièces individuelles : CC-BY-NC-ND 4.0
